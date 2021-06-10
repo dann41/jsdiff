@@ -1,0 +1,27 @@
+{
+  "name": "jscomparator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "module": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dann41/jsdiff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dann41/jsdiff/issues"
+  },
+  "homepage": "https://github.com/dann41/jsdiff#readme",
+  "dependencies": {
+    "esm": "^3.2.25"
+  },
+  "devDependencies": {
+    "jest": "^27.0.4"
+  }
+}
